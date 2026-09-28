@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-**Name:** ____________________  
+**Name:** ______Kushal Rao______________  
 **Roll number:** ____________________
 
 Personal LeetCode practice log - part of B25GE0101 portfolio.
